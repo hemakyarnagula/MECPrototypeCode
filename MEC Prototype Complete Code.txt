@@ -1,0 +1,9 @@
+Hi,
+
+Following is the link for downloading the complete code for our MEC based prototype. Once you download, you need to add the video dataset in the webapps folder. anbd need to recompile the complete Jetty code, in some cases.
+
+
+https://drive.google.com/file/d/1ulC99t1bhrxfIrB3GxqgKE2MMIF2b-Yk/view?usp=sharing
+
+--
+Hema K. Yarnagula
